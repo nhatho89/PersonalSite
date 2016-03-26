@@ -2104,3 +2104,44 @@
 				}
 
 	}
+
+
+
+	.skill-grids {
+		display: flex;
+		justify-content: space-around;
+		flex-direction: column;
+
+	}
+
+	#skills {
+		background-color: #fafafa;
+	}
+
+	.row1 {
+		display: flex;
+		justify-content: space-around;
+	}
+
+	.row2 {
+		display: flex;
+		justify-content: space-around;
+	}
+
+	.skill-section {
+		text-align: center;
+	}
+
+.skill-grid h3 {
+	text-align: center;
+}
+
+.skill-section {
+	padding-top: 30px !important;
+	padding-bottom: 30px !important;
+}
+
+.footer {
+	display: flex;
+	justify-content: center;
+}
