@@ -2144,4 +2144,13 @@
 .footer {
 	display: flex;
 	justify-content: center;
+	padding-bottom: 100px;
 }
+
+/*.lairshare-images {
+	height: 214px;
+}
+
+.runaway-images {
+	height: 214px;
+}*/
